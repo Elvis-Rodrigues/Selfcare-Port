@@ -1,0 +1,10 @@
+.pagamento__img {
+    padding-left: 23px;
+}
+
+.pagamento__img--pick {
+    padding-bottom: 5px;
+}
+.pagamento__img--visa {
+    padding-bottom: 14px;
+}

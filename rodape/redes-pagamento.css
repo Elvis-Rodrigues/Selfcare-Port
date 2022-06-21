@@ -1,0 +1,7 @@
+.redes-pagamento {
+    align-items: baseline;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 43px 77px;
+}

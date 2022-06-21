@@ -1,0 +1,62 @@
+.produtos__img {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 303px;
+    height: 303px;
+    border-radius: 5px;
+    margin: 0 auto;
+    
+}
+
+.produtos__img--shampoo {
+    background-image: url('../Imagens/gabrielle-henderson-1DMNn6gBbwQ-unsplash.jpg');
+}
+
+.produtos__img--suco {
+    background: url('../Imagens/devin-avery-bMH8ub9z1_U-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.produtos__img--sucos {
+    background: url('../Imagens/devin-avery-BRVqq2uak4E-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.produtos__img--po {
+    background: url('../Imagens/nery-montenegro-SmEty_TVr80-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.produtos__img--perfume {
+    background: url('../Imagens/olena-sergienko-GOVTETevRm8-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.produtos__img--pomada {
+    background: url('../Imagens/pharma-hemp-complex-tAzdKblAinw-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.produtos__img--oleo {
+    background: url('../Imagens/phaedra-botanicals-uFAHrKYkTVI-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.produtos__img--sabonete {
+    background: url('../Imagens/pharma-hemp-complex-yVAXSK6zFIM-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.produtos__img--creme {
+    background: url('../Imagens/chandra-oh-y5hRv6UNKMg-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
+}

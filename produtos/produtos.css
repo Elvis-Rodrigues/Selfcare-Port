@@ -1,0 +1,8 @@
+.produtos {
+    border-color: #a5a1a1;
+    border-style: solid;
+    border-width: 0.2px 0;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 57px 0 0 70px
+}

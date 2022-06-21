@@ -3,3 +3,7 @@
     font-size: 25.8333px;
     font-weight: 500;
 }
+
+.logo__link:hover{
+    cursor: pointer;
+}
