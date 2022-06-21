@@ -7,3 +7,11 @@
 .logo__link:hover{
     cursor: pointer;
 }
+
+@media screen and (min-width=440px) {
+    .logo__link {
+        width: 849px;
+        height: 221px;
+        font-size: 17.91px;
+    }
+}
