@@ -1,0 +1,6 @@
+.topo {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding: 31px 69px;
+}
